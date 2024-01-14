@@ -1,0 +1,14 @@
+/Users/bartekromek/wsb/while/while/bin/Debug/net8.0/while
+/Users/bartekromek/wsb/while/while/bin/Debug/net8.0/while.deps.json
+/Users/bartekromek/wsb/while/while/bin/Debug/net8.0/while.runtimeconfig.json
+/Users/bartekromek/wsb/while/while/bin/Debug/net8.0/while.dll
+/Users/bartekromek/wsb/while/while/bin/Debug/net8.0/while.pdb
+/Users/bartekromek/wsb/while/while/obj/Debug/net8.0/while.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartekromek/wsb/while/while/obj/Debug/net8.0/while.AssemblyInfoInputs.cache
+/Users/bartekromek/wsb/while/while/obj/Debug/net8.0/while.AssemblyInfo.cs
+/Users/bartekromek/wsb/while/while/obj/Debug/net8.0/while.csproj.CoreCompileInputs.cache
+/Users/bartekromek/wsb/while/while/obj/Debug/net8.0/while.dll
+/Users/bartekromek/wsb/while/while/obj/Debug/net8.0/refint/while.dll
+/Users/bartekromek/wsb/while/while/obj/Debug/net8.0/while.pdb
+/Users/bartekromek/wsb/while/while/obj/Debug/net8.0/while.genruntimeconfig.cache
+/Users/bartekromek/wsb/while/while/obj/Debug/net8.0/ref/while.dll
