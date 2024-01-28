@@ -33,6 +33,6 @@ class Program
         Console.WriteLine($"Suma kwadratów: {sum}");
         Console.WriteLine($"Najmniejsza wartość: {minValue}");
 
-        Console.ReadLine(); // Zatrzymuje konsolę przed zamknięciem
+        Console.ReadLine();
     }
 }
